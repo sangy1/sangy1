@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sangy1
 - 👀 I’m interested in software development and cybersecurity
-- 🌱 I’m currently learning java and C++ related projects
+- 🌱 I’m currently learning C++ and HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
